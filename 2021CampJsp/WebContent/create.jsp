@@ -29,7 +29,7 @@
 
 
 <h1> Create class</h1>
-<form action="/create" method="post" enctype="multipart/form-data">
+<form action="" method="post" enctype="multipart/form-data">
   <div class="form-horizontal">
 
     <div class="form-group row">

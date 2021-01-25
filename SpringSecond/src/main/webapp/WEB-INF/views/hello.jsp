@@ -1,3 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Hello gyuseok !</h1>
-<img src = "./img/jaechang.jpeg" height = '300'>
-<a href = "./table.html"> Table </a>
 
 </body>
 </html>

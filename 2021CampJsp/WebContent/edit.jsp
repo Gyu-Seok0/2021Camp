@@ -36,7 +36,7 @@
 
 <h1>편집</h1>
 
-<form action="/edit/18" method="post">
+<form action="edituser.jsp" method="post">
     <div class="form_horizontal">
       <div class="form-group row">
     <label class="col-form-label col-sm-2" for="Title">Title</label>
